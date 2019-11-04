@@ -1,2 +1,2 @@
 # ARGround_AIrPlane
-Augmented Reality to test ground plane and Mid-air feature
+Augmented Reality to test Vuforia ground plane feature
